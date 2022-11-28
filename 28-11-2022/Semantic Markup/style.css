@@ -1,0 +1,20 @@
+/* .mark{
+    background-color: blue;
+} */
+
+li{
+    list-style-type: none;
+    display: inline;
+    border: 1px solid green;
+    margin-right: 2px;
+    background-color: gray;
+    color: white;
+}
+li:hover{
+    background-color: black;
+
+}
+ul{
+    display: flex;
+    justify-content: flex-end;
+}
